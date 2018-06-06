@@ -1,0 +1,52 @@
+.NavBar {
+    background-color: #D8D8D8;
+    height: 15vh;
+    width: 100vw;
+    align-items: center;
+    display: flex;
+}
+
+.LilBlueSquare {
+    background-color: #4791E4;
+    height: 12vh;
+    width: 7vw;
+    margin-left: 15px;
+    display: flex;
+}
+
+.Whitey {
+    height: 33vh;
+    width: 100vw;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.Text {
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+.Blue {
+    background-color: #4990E2;
+    height: 15vh;
+    width: 100vw;
+}
+
+.Aqua {
+    background-color: #4FE3C1;
+    height: 15vh;
+    width: 100vw;
+}
+
+.Puke {
+    background-color: #B9E888;
+    height: 15vh;
+    width: 100vw;
+}
+
+.Yellow {
+    background-color: #F8E71E;
+    height: 15vh;
+    width: 100vw;
+}
