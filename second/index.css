@@ -1,0 +1,77 @@
+Body {
+
+}
+
+.Header {
+    border: 5px black solid;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 30vh;
+    width: 95%;
+}
+
+.Purp {
+    display: inline-block;
+    background-color: blueviolet;
+    height: 20vh;
+    width: 3vw;
+    margin-left: 10px;
+    margin-top: 55px;
+}
+
+.Greenie {
+    display: inline-block;
+    background-color: green;
+    height: 25vh;
+    width: 35vw;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+
+.BlueCirc {
+    display: inline-block;
+    background-color: skyblue;
+    border-radius: 50%;
+    height: 27vh;
+    width: 15vw;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.Middle {
+    border: 5px black dotted;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+    height: 30vh;
+    width: 95%;
+}
+
+.Creamie {
+    height: 21vh;
+    width: 90vw;
+    margin-left: 25px;
+    margin-right: 20px;
+    margin-top: 35px;
+    background-color: #ffffcc;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Bottom {
+    height: 28vh;
+    width: 40%;
+    margin: 30px auto;
+    margin-top: 15px;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Hello {
+    margin: 0px auto;
+    color: purple;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
